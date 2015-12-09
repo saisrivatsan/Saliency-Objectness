@@ -4,9 +4,7 @@ Optimization[2], Saliency Filter[3], Geodesic Saliency[4],
 and Manifold Ranking[5].
 
 Code for [1] by Sai Srivatsa R
-
 Email : saisrivatsan12@gmail.com
-
 Date : 12/09/2015
 
 Code for [2,3,4,5] by Wangjiang Zhu
@@ -20,10 +18,8 @@ If you use this code, please cite both [1] and [2].
 ### Instructions
 
 
-To run the demo for default images stored in `Data\SRC` and to perform evaluation run: `>>demo`
-
-The saliency maps are stored in `Data\Res` 
-
+To run the demo for default images stored in `Data\SRC` and to perform evaluation run: `>>demo`.
+The saliency maps are stored in `Data\Res` .
 To obtain saliency maps for custom images using our approach and other methods:
 
 (1) Add the required files to `Data\SRC` .
