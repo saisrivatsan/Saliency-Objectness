@@ -9,9 +9,6 @@ Visit our [Project Webpage](http://saisrivatsan.github.io/SaliencyWebpage/) for 
 
 
 Code for [1] by Sai Srivatsa R  
-Email : saisrivatsan12@gmail.com  
-Date : 12/09/2015
-
 [Code](http://research.microsoft.com/en-US/people/yichenw/mcode_addslicsourcecode_8_30_2014.rar) for [2,3,4,5] by Wangjiang Zhu  
 
 
