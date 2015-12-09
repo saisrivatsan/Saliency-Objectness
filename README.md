@@ -2,15 +2,18 @@
 
 ### Introduction
 
+
 This demo shows how to use Saliency Objectness [1], as well as Saliency Optimization [2], Saliency Filter [3], Geodesic Saliency [4], and Manifold Ranking [5].
+
+Visit our [Project Webpage](http://saisrivatsan.github.io/SaliencyWebpage/) for more details
+
 
 Code for [1] by Sai Srivatsa R  
 Email : saisrivatsan12@gmail.com  
 Date : 12/09/2015
 
-Code for [2,3,4,5] by Wangjiang Zhu  
-Email: wangjiang88119@gmail.com  
-Date: 3/24/2014  
+[Code](http://research.microsoft.com/en-US/people/yichenw/mcode_addslicsourcecode_8_30_2014.rar) for [2,3,4,5] by Wangjiang Zhu  
+
 
 If you use this code, please cite both [1] and [2].
 
