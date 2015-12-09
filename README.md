@@ -1,7 +1,10 @@
 # Salient Object Detection via Objectess Measure
-This demo shows how to use Saliency Objectness [1], as well as Saliency 
-Optimization [2], Saliency Filter [3], Geodesic Saliency [4], 
-and Manifold Ranking [5].
+
+Created by Sai Srivatsa R, R Venkatesh Babu at IISc Bangalore.
+
+### Introduction
+
+This demo shows how to use Saliency Objectness [1], as well as Saliency Optimization [2], Saliency Filter [3], Geodesic Saliency [4], and Manifold Ranking [5].
 
 Code for [1] by Sai Srivatsa R  
 Email : saisrivatsan12@gmail.com  
